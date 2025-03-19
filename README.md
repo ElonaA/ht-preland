@@ -15,7 +15,7 @@
    - Партнерська мережа: **PinUp**
    - ГЕО: **Ukraine**
    - Тег баєра: **hero**
-   - Лін на офер `(додаємо редіректом)` - **https://onepartners.scaletrk.com/click?o=875&a=21&sub_id1={web_ID}&aff_click_id={subid}**
+   - Лін на офер `(додаємо редіректом)` - **https://onepartners.scaletrk.com/click?o=1321&a=21&link_id=3471&sub_id1={web_ID}&aff_click_id={subid}**
 
 ## ✏️ Зміни на прелендінгу:
 
